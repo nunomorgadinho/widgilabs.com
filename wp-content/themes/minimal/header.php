@@ -29,7 +29,16 @@
 <body>
 <div id="outer">
     <div class="contentwidth main">
+
+<div id="social">
+<a href="https://twitter.com/widgilabs" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @widgilabs</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fwidgilabs&amp;send=false&amp;layout=button_count&amp;width=80&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=172621116170898" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:21px; top: 1px; position: relative" allowTransparency="true"></iframe>
+</div>
+
 <div class= "containerlogomenu">
+
+
 <a href="/" target "_self">
 		<div class="logo">
 		

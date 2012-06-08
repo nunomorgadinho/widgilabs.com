@@ -712,3 +712,8 @@ html[xmlns] .clearfix {
     font-style: normal;
 
 }
+
+
+#social {
+	float: right;	
+}
