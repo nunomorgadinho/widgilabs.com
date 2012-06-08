@@ -1,0 +1,5 @@
+[28-Feb-2012 16:05:30] PHP Warning:  array_keys() [<a href='function.array-keys'>function.array-keys</a>]: The first argument should be an array in /home2/morgadin/public_html/widgilabs.com/wp-content/plugins/sitepress-multilingual-cms/inc/functions-string-translation.php on line 963
+[28-Feb-2012 16:06:02] PHP Warning:  array_keys() [<a href='function.array-keys'>function.array-keys</a>]: The first argument should be an array in /home2/morgadin/public_html/widgilabs.com/wp-content/plugins/sitepress-multilingual-cms/inc/functions-string-translation.php on line 963
+[08-Jun-2012 18:01:41] WordPress database error Unknown column 'count' in 'field list' for query UPDATE `wp_ltw_testimonial_groups`
+			SET `count` = `count` + 1
+			WHERE id = 1 made by do_action, call_user_func_array, ltw_manage_testimonials, include

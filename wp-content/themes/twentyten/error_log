@@ -1,0 +1,1 @@
+[23-Apr-2012 12:12:50] PHP Fatal error:  Call to undefined function  have_posts() in /home2/morgadin/public_html/widgilabs.com/wp-content/themes/twentyten/loop.php on line 31
