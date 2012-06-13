@@ -22,14 +22,15 @@ get_header(); ?>
             </div>
             <div class="clearfix"></div>
             
-            <?php edit_post_link('Edit this Post', '<p><small>', '</small></p>'); ?>
+			<br/><br/><br/><br/>
 			
             <div class="navigation clearfix">
                 <div class="alignleft"><?php previous_post_link('&laquo; %link') ?></div>
                 <div class="alignright"><?php next_post_link('%link &raquo;') ?></div>
             </div>
           
-			
+            <?php edit_post_link('Edit this Post', '<p><small>', '</small></p>'); ?>
+            			
 	<?php comments_template(); ?>
 
 	</div><!-- end column 600 -->
