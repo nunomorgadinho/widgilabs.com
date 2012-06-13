@@ -8,7 +8,6 @@ get_header(); ?>
 <div class="clearfix">
 	
 	
-	<h2>WordPress Experience & Portfolio</h2>
 	<?php include_once("subnav.php"); ?>
 		<?php if(get_option('portfolio_category_id')) { $param = "cat=".get_option('portfolio_category_id'); }else{ $param = ""; } ?>
 		
