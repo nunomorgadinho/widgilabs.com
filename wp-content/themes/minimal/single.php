@@ -6,9 +6,9 @@ get_header(); ?>
 	
 	
 		<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
-        <h2><?php the_title(); ?></h2>
+        
 		<div class="column column600">
-
+		<h2><?php the_title(); ?></h2>
             <p class="meta"><span class="date"><?php the_time('m.d.y') ?></span> Posted in <?php the_category(', ') ?> by <?php the_author_posts_link() ?></p>
             <div class="entry">
 
