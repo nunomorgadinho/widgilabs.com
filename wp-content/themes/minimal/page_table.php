@@ -6,7 +6,6 @@ get_header(); ?>
 <!-- column container -->
 <div class="clearfix">
 
-	<h2><?php the_title(); ?></h2>
 	<?php include_once("subnav.php"); ?>
 	
 	

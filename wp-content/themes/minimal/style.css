@@ -655,7 +655,7 @@ div.aligncenter {
 }
 .clearfix {
     display: inline-block;
-    margin-top: -20px;
+    margin-top: -40px;
 }
 html[xmlns] .clearfix {
     display: block;

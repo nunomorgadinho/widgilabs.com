@@ -12,7 +12,7 @@ get_header(); ?>
 	  
 	<div class="column column600">
 		<?php 
-ECHO "OLAAAA3";
+
 		$folio_cat_ids = get_option('portfolio_category_id');
 		$exclude_cats = $folio_cat_ids.','.'5'.','.'4';
 		$company_cat_arr = explode(',',$exclude_cats);
