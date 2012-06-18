@@ -4,6 +4,7 @@
 <link rel=“shortcut icon” type=“image/gif” href=“<?php bloginfo('template_directory'); ?>/images/favicon.ico“ />
 <meta http-equiv="Content-Type" content="<?php bloginfo('html_type'); ?>; charset=<?php bloginfo('charset'); ?>" />
 <meta name="google-site-verification" content="7rvUj_v2P_F1nZO1VvBRJNZJwjuQZhGxcUXlYDuJXfs" />
+<meta name="alexaVerifyID" content="8ykgxhJWy1WME28k2ve-bXsD8TY" />
 	<title><?php bloginfo('name'); ?><?php wp_title(' - ', true, 'left'); ?> - WordPress-based Web Apps & Business Solutions</title>
 	<link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>" type="text/css" media="screen" />
     <?php if(get_option("menuwidth")) { ?><style type="text/css" media="screen">.menu UL{ width:<?php echo get_option("menuwidth"); ?>; }</style><?php }?>
